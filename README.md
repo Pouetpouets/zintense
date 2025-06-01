@@ -47,4 +47,5 @@ Le frontend sera accessible sur [http://localhost:3000](http://localhost:3000)
 
 ## Auteur
 Pouetpouets
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Pouetpouets/zintense?utm_source=oss&utm_medium=github&utm_campaign=Pouetpouets%2Fzintense&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
  
